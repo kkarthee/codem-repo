@@ -1,0 +1,3 @@
+[submodule "custommodule/puppet-hiera"]
+	path = custommodule/puppet-hiera
+	url = https://github.com/voxpupuli/puppet-hiera.git
